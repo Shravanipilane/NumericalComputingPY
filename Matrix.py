@@ -1,6 +1,5 @@
 class Matrix:
-    """A general-purpose Matrix class. No assignment-specific logic here."""
-
+   
     def __init__(self, data):
         # data = list of lists, e.g. [[1, 2], [3, 4]]
         self.data = data                        #the data belongs to the particular object
